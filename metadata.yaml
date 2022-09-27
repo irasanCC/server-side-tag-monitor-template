@@ -1,5 +1,5 @@
 homepage: "https://code-cube.io/"
 documentation: "https://code-cube.io/tag-monitor/"
 versions:
-  - sha: b414e0350690dfdc7096b8622d9a1b9613d130a7
+  - sha: a254754fe7e34d2b3ac01b46adff22f23835b17e
     changeNotes: Initial release.
