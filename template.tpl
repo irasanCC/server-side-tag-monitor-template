@@ -8,7 +8,7 @@
   ],
   "version": 1,
   "securityGroups": [],
-  "displayName": "Server Container Tag Monitor",
+  "displayName": "Code Cube Server Side Tag Monitor",
   "brand": {
     "id": "github.com_gtm-templates-simo-ahava",
     "displayName": "",
